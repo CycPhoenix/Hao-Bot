@@ -18,4 +18,4 @@ client.on('ready', async () => {
     })
 })
 
-client.login(config.token)
+client.login(process.env.token)
