@@ -9,4 +9,4 @@ client.on('ready', async () => {
     client.user.setActivity('On Development', { type: 'PLAYING' })
 })
 
-client.login(config.token)
+client.login(process.env.token)
