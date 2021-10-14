@@ -1,6 +1,6 @@
 {
     "token": "NzgxMzQ2OTA3MzUyMDcyMTkz.X78UAw.bF7GydNpEG-RmblcxJUMPWQgP9k",
     "prefix": "h!",
-    "mongoPath": "mongodb+srv://Cyc:5CmmW0moXsz5xXNa@hao.i7uhl.mongodb.net/hao?retryWrites=true&w=majority",
+    "mongoPath": "mongodb+srv://SkyCyc:axxtRebahcDrP5ky@hao-bot.ubmsh.mongodb.net/Data?retryWrites=true&w=majority",
     "redisPath": "//redis-10948.c114.us-east-1-4.ec2.cloud.redislabs.com:10948?password=AoqK5MKuBdsF8mk4Q72D7wjIBn4jeYOt"
 }
